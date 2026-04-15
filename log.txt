@@ -1,0 +1,3 @@
+06/04/2026 21:58:38 - função=criar_usuario - tipo=Criação de usuário - args=[[<__main__.PessoaFisica object at 0x000001DDB5A48EC0>], 'gu', '000111000', '254656', 'fghf'] - retorno=True
+06/04/2026 21:59:10 - função=criar_conta_corrente - tipo=Criação de conta corrente - args=[[], '0001', '01', [<__main__.PessoaFisica object at 0x000001DDB5A48EC0>], '00011100'] - retorno=False
+nc06/04/2026 22:00:00 - função=criar_conta_corrente - tipo=Criação de conta corrente - args=[[<__main__.ContaCorrente object at 0x000001DDB5A49160>], '0001', '01', [<__main__.PessoaFisica object at 0x000001DDB5A48EC0>], '000111000'] - retorno=True
